@@ -16,3 +16,14 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.settings-list {
+  margin-bottom: 25px;
+}
+
+.settings-list .divider {
+  background-color: rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: 2px;
+  margin-top: 15px;
+}
